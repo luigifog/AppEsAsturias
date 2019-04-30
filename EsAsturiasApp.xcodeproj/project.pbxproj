@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A05BEE4F2278CFEA005ABE74 /* 1auiw5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A05BEE4E2278CFEA005ABE74 /* 1auiw5.jpg */; };
 		A0920CD12278C92400500D55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0920CD02278C92400500D55 /* AppDelegate.swift */; };
 		A0920CD32278C92400500D55 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0920CD22278C92400500D55 /* ViewController.swift */; };
 		A0920CD62278C92400500D55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0920CD42278C92400500D55 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A05BEE4E2278CFEA005ABE74 /* 1auiw5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1auiw5.jpg; path = ../../../Downloads/1auiw5.jpg; sourceTree = "<group>"; };
 		A0920CCD2278C92400500D55 /* EsAsturiasApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EsAsturiasApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0920CD02278C92400500D55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0920CD22278C92400500D55 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		A0920CCF2278C92400500D55 /* EsAsturiasApp */ = {
 			isa = PBXGroup;
 			children = (
+				A05BEE4E2278CFEA005ABE74 /* 1auiw5.jpg */,
 				A0920CD02278C92400500D55 /* AppDelegate.swift */,
 				A0920CD22278C92400500D55 /* ViewController.swift */,
 				A0920CD42278C92400500D55 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A05BEE4F2278CFEA005ABE74 /* 1auiw5.jpg in Resources */,
 				A0920CDB2278C92500500D55 /* LaunchScreen.storyboard in Resources */,
 				A0920CD82278C92500500D55 /* Assets.xcassets in Resources */,
 				A0920CD62278C92400500D55 /* Main.storyboard in Resources */,
@@ -433,6 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3F48LSYX2G;
 				INFOPLIST_FILE = EsAsturiasApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3F48LSYX2G;
 				INFOPLIST_FILE = EsAsturiasApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
